@@ -3,25 +3,45 @@
 
 I set up a Kali Linux virtual machine using Oracle VirtualBox as an initial environment for learning cybersecurity and ethical hacking in a controlled lab environment.
 
+
 ⚙️ What I Set Up
-💻 Installed and configured Oracle VirtualBox.
+
+💻 Installed and configured Oracle VirtualBox
+.
 🐉 Downloaded and imported Kali Linux 2026.1 into VirtualBox.
+
 🖥️ Configured Kali Linux as a virtual machine.
-🧠 Allocated system resources to the Kali VM.
+
+🧠 Allocated system resources to the Kali VM
+
 🌐 Configured the VM's network adapter to provide network connectivity.
+
 🔧 Troubleshot the Kali Linux network configuration.
+
 📡 Verified network connectivity using commands such as ping.
+
 🔍 Checked the Kali Linux IP configuration using ip a.
+
 ⚙️ Configured the required network settings for the virtual machine.
+
 🐧 Practiced basic Linux commands inside Kali Linux.
+
 🔎 Installed and used Nmap for basic network-security learning.
+
 🧪 Created a working environment for future cybersecurity labs and practice.
+
 🧰 Tools Used
+
 💻 Oracle VirtualBox
+
 🐉 Kali Linux 2026.1
+
 🔎 Nmap
+
 🪟 Windows Host System
+
 🛠️ Troubleshooting
+
 
 During the setup, I faced issues with:
 
