@@ -46,9 +46,13 @@ I set up a Kali Linux virtual machine using Oracle VirtualBox as an initial envi
 During the setup, I faced issues with:
 
 ⚠️ Kali Linux VM booting
+
 🌐 VirtualBox network configuration
+
 📡 Internet/DNS connectivity
+
 🔌 Connecting the Kali VM to the required network
+
 
 I worked through these configuration issues and successfully got the Kali Linux environment running.
 
@@ -57,12 +61,20 @@ I worked through these configuration issues and successfully got the Kali Linux 
 Through this setup, I learned:
 
 🖥️ How to create and configure a virtual machine.
+
 🐉 How Kali Linux works inside VirtualBox.
+
 🌐 Basic virtual-machine networking concepts.
+
 🔍 How to check IP addresses and network connectivity in Linux.
+
 🔎 Basic Nmap usage for cybersecurity learning.
+
 🔧 How to troubleshoot VM and network configuration problems.
+
 🛡️ The importance of using a controlled environment for cybersecurity practice.
+
+
 🎯 Purpose
 
 This environment will be used for authorized cybersecurity learning, networking practice, penetration-testing labs, and future security projects.
