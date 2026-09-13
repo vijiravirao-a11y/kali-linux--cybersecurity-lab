@@ -18,6 +18,7 @@ I set up a Kali Linux virtual machine using Oracle VirtualBox as the initial env
 * Practiced basic Linux commands inside Kali Linux.
 * Installed and used **Nmap** for basic network-security learning.
 * Created a working environment that can be used for future cybersecurity labs and practice.
+  
 
 ## Tools Used
 
